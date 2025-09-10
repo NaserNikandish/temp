@@ -3,7 +3,7 @@
 This repository contains two Jupyter notebooks with simple pandas examples for beginners:
 
 1. **create_df_from_dict.ipynb**  
-   Shows how to create a pandas DataFrame from a dictionary of lists.
+   SHOWS HOW to create a pandas DataFrame from a dictionary of lists.
 
 2. **basic_operations.ipynb**  
    Demonstrates basic DataFrame operations such as adding a new column and generating summary statistics.
